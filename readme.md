@@ -1,0 +1,1 @@
+This project done to understand numpy,sympy and scipy a bit more and it is nothing more than a project done for learning purpose.
